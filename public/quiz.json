@@ -1,0 +1,119 @@
+{
+    "quizzes": [
+      {
+        "quizTitle": "Introduction to Programming",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is programming?",
+            "options": [
+              "The process of creating instructions for a computer to execute",
+              "A method of designing physical objects",
+              "A type of mathematical operation",
+              "The art of creating visual designs"
+            ],
+            "correctAnswer": "The process of creating instructions for a computer to execute"
+          },
+          {
+            "id": 2,
+            "question": "Which of the following is a programming language?",
+            "options": [
+              "Python",
+              "HTML",
+              "CSS",
+              "Photoshop"
+            ],
+            "correctAnswer": "Python"
+          },
+          {
+            "id": 3,
+            "question": "Which skill is essential for programming?",
+            "options": [
+              "Logical thinking",
+              "Artistic creativity",
+              "Physical fitness",
+              "Musical ability"
+            ],
+            "correctAnswer": "Logical thinking"
+          }
+        ]
+      },
+      {
+        "quizTitle": "Understanding Variables and Data Types",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is a variable in programming?",
+            "options": [
+              "A symbolic name that stores data values",
+              "A fixed value that never changes",
+              "A part of the hardware in a computer",
+              "A specific type of software"
+            ],
+            "correctAnswer": "A symbolic name that stores data values"
+          },
+          {
+            "id": 2,
+            "question": "Which data type holds whole numbers?",
+            "options": [
+              "Integer",
+              "String",
+              "Boolean",
+              "Floating-point"
+            ],
+            "correctAnswer": "Integer"
+          },
+          {
+            "id": 3,
+            "question": "Why is understanding data types important in programming?",
+            "options": [
+              "It ensures that operations on data are valid",
+             "It helps design user interfaces",
+              "It allows the program to run without memory",
+              "It automatically writes the program"
+            ],
+            "correctAnswer": "It ensures that operations on data are valid"
+          }
+        ]
+      },
+      {
+        "quizTitle": "Understanding Control Statements",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is the purpose of control statements in programming?",
+            "options": [
+              "To manage the flow of execution in a program",
+              "To store data values for future use",
+              "To handle memory management",
+              "To debug code during execution"
+            ],
+            "correctAnswer": "To manage the flow of execution in a program"
+          },
+          {
+            "id": 2,
+            "question": "Which of the following is a conditional statement?",
+            "options": [
+              "if",
+              "for",
+              "while",
+              "do-while"
+            ],
+            "correctAnswer": "if"
+          },
+          {
+            "id": 3,
+            "question": "Which loop statement continues executing as long as the condition is true?",
+            "options": [
+              "while",
+              "if-else",
+              "switch",
+              "break"
+            ],
+            "correctAnswer": "while"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Children's Tale",
+      "info": "Magical Adventures for Kids",
+      "category": "Free"
+    },
+    {
+      "id": 2,
+      "name": "Educational Guide",
+      "info": "Learning Made Fun",
+      "category": "Free"
+    },
+    {
+      "id": 3,
+      "name": "Mystery Novel",
+      "info": "Solve the Puzzle",
+      "category": "Free"
+    },
+    {
+      "id": 4,
+      "name": "Science Fiction",
+      "info": "Explore the Future",
+      "category": "Free"
+    },
+    {
+      "id": 5,
+      "name": "Romance Story",
+      "info": "Love and Passion",
+      "category": "Free"
+    },
+    {
+        "id": 6,
+        "name": "Romance Story",
+        "text": "Love and Passion",
+        "category": "Free"
+      }
+  ]
+  
